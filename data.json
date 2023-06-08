@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pesas 2kg",
+        "precio": 2500,
+        "img": "img/pesas 2kg.jpg",
+        "cantidad": 1 
+    }
+    ,{
+        "id": 2,
+        "nombre": "Cinta de correr",
+        "precio": 350000,
+        "img": "img/cinta correr.jpg",
+        "cantidad": 1 
+    }
+    ,{
+        "id": 3,
+        "nombre": "Proteina ultra whey",
+        "precio": 7500,
+        "img": "img/Ultra Whey Protein 21 (Frutilla) - Polvo - 750 Grs. (1,6 Lbs.) - Satur.jpg",
+        "cantidad": 1 
+    }
+    ,{
+        "id": 4,
+        "nombre": "Disco agarre plastico 10kg",
+        "precio": 8000,
+        "img": "img/disco bsfit c agarre plastico 10kg.jpg",
+        "cantidad": 1 
+    }
+]
